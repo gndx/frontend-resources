@@ -7,6 +7,12 @@ https://github.com/sindresorhus/awesome-nodejs
 
 https://github.com/MunGell/awesome-for-beginners
 
+[33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+
+[Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
+
+[Biblioteca en Español](https://github.com/rosepac/biblioteca-espanol-gratis)
+
 
 ### Next Saga Boilerplate
 Boilerplate con Next.js configurado con Redux Saga como middleware, y con estructura de carpetas ya creada.
