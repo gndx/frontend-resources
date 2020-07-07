@@ -7,7 +7,7 @@ https://github.com/sindresorhus/awesome-nodejs
 
 https://github.com/MunGell/awesome-for-beginners
 
-
+[JSON-Viewer Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=es)
 ### Next Saga Boilerplate
 Boilerplate con Next.js configurado con Redux Saga como middleware, y con estructura de carpetas ya creada.
 [Ir al Repositorio](https://github.com/josealvaradoo/next-saga-boilerplate)
